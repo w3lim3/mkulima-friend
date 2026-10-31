@@ -1,0 +1,5 @@
+streamlit>=1.40
+streamlit-geolocation
+google-genai
+python-dotenv
+requests
